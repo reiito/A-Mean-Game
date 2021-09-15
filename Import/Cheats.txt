@@ -1,0 +1,19 @@
+Keys & Codes:
+W, Left Stick Up, D-Pad Up                         = U
+S, Left Stick Down, D-Pad Down                     = D
+A, Left Stick Left, D-Pad Left                     = L
+D, Left Stick Right, D-Pad Right                   = R
+Space, A                                           = J
+Shift, Left Trigger, Right Trigger                 = S
+Left Click, Right Click, Left Bumper, Right Bumper = C
+Escape, P, Start                                   = P
+
+Cheat Codes:
+Unlock Double Jump = J-J-J-P
+Unlock Sprinting   = R-U-D-R
+Unlock All Levels  = L-R-U-D
+Show Cows          = C-U-R-D
+Show Traps         = S-P-S-P
+God Mode           = L-U-C-S
+Speed Run Mode     = S-P-U-R
+1-Life Mode        = C-P-R-D
